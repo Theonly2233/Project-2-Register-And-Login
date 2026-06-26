@@ -1,5 +1,5 @@
 # ==========================================
-# PROJECT 2 - USER INPUT VALIDATION
+# PROJECT 2 - REGISTER AND LOGIN
 # ==========================================
 # Version 2
 # - Combined "get_information_login" and "get_information_register" functions.
