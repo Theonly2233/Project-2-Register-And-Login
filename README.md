@@ -42,3 +42,6 @@ V4
 - Added duplicate username and email checks during registration.
 
 V5
+- Improved registration flow for duplicate usernames and emails.
+- Moved duplicate username and email checks into registration input validation.
+- Registration now asks again immediately when username or email is already taken.
